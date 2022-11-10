@@ -1,0 +1,23 @@
+body{    
+    text-align: center;
+}
+.O-h1{
+    color: blue;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 150px;
+}
+.O-h2{
+    color: rgb(230, 15, 126);
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 100px;
+    margin-top: -235px;
+    letter-spacing: 10px;
+}
+.O-div{
+    margin-top: -100px;
+}
+.O-h3{
+    color: rgb(61, 62, 62);
+    font-family: 'Lobster';
+    font-size: 50px;
+}
